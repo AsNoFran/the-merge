@@ -1,3 +1,3 @@
 # the-merge
 REMOTE
-How to resolve merge conflicts in Git.
+How to resolve my first merge conflicts in Git.
